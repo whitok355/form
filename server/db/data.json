@@ -1,0 +1,3 @@
+{
+    "body": "{\"name\":{\"value\":\"фывфыв\",\"valid\":false,\"regExp\":{},\"errMsg\":\"Please enter your name correctly\"},\"tel\":{\"value\":\"+7(321)321-32-32\",\"valid\":false,\"regExp\":{},\"errMsg\":\"Please enter your number correctly\"},\"mail\":{\"value\":\"sdfs@mail.ru\",\"valid\":false,\"regExp\":{},\"errMsg\":\"Please enter your mail correctly\"},\"city\":{\"valid\":false,\"regExp\":{},\"errMsg\":\"Please enter your city correctly\"}}"
+}
