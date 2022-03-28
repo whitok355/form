@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,EAAE,EAAE,EAAE,CAAC;EACH,KAAK,ECFG,KAAK;CDEO;;AACxB,AAAA,EAAE,CAAC;EACC,UAAU,EAAE,MAAM;EAClB,SAAS,EAAE,KAAK;EAChB,aAAa,EAAE,GAAG,CAAC,KAAK,CCNhB,KAAK;EDOb,KAAK,ECPG,KAAK;EDQb,cAAc,EAAE,IAAI;CAAG;;AAC3B,AAAA,KAAK,CAAC;EACF,SAAS,EAAE,KAAK;CAAG",
+    "sources": [
+        "main.sass",
+        "_variables.sass"
+    ],
+    "names": [],
+    "file": "main.css"
+}

@@ -1,0 +1,16 @@
+h1, h2 {
+  color: white;
+}
+
+h3 {
+  text-align: center;
+  font-size: 1.5em;
+  border-bottom: 1px solid white;
+  color: white;
+  padding-bottom: 20px;
+}
+
+label {
+  font-size: 1.2em;
+}
+/*# sourceMappingURL=main.css.map */
